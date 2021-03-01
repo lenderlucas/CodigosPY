@@ -20,6 +20,7 @@
 # for contador in range(1,1000):
 #     contador += 1
 #     print(contador)
+# SE EVALUA EL BUBLE CON LOS NUMEROS PRIMOS 
 def es_primo(numero):
     contador=0
 
