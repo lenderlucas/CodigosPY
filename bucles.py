@@ -23,6 +23,7 @@
 # SE EVALUA EL BUBLE CON LOS NUMEROS PRIMOS 
 def es_primo(numero):
     contador=0
+    contador2=0
 
     for i in range(1, numero):
         if i==1 or i==numero:
